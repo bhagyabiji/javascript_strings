@@ -1,5 +1,8 @@
 JAVASCRIPT STRING METHODS
 -------------------------
+- sequence of characters
+- string is immutable & array is mutable
+
 Methods
 --------
 
