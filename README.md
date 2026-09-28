@@ -40,3 +40,23 @@ Methods
 10) array.from() - to get all character of a string as array
 
 11) split(separator) -  divides the string based on the separator and return a new array
+
+
+OBJECT
+------
+To add new data
+----------------
+        syntax
+        -------
+        objectname[key] = value
+                OR
+        Object.assign(target,{key:value})
+
+
+To updata the data
+-------------------
+        objectname[key] = value
+
+To delete
+----------
+        delete objectname.key
