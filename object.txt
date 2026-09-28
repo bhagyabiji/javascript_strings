@@ -1,0 +1,42 @@
+
+Object
+-------
+- unlike array, it can store more than one data of different datat types with more clarity
+
+- Object is a simgle variable that can store more than one data of different datatype as key:valued pair, that are separated by commas and enclosed within curly brackets.
+
+        syntax
+        ------
+        objectname = {
+                key1:value1 ,
+                key2:value2 ,.....
+        }
+
+
+- to access a single data  form object 
+        -> objectname['key']
+        -> objectname.key
+
+- for in can be used to access the keys in an object
+- console.log(employee[items]); => if it is a variable then no need of quotes
+- we can use this-> console.log(employee.empDesg); -> only when the empDesg is an index name in the employee object.
+
+To add new data
+----------------
+        syntax
+        -------
+        objectname[key] = value
+                OR
+        Object.assign(target,{key:value})
+
+
+To updata the data
+-------------------
+        objectname[key] = value
+
+To delete
+----------
+        delete objectname.key
+
+
+spread - ... -   => merging of 2 different arrays
