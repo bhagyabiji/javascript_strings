@@ -44,6 +44,8 @@ Methods
 
 OBJECT
 ------
+- Object is a simgle variable that can store more than one data of different datatype as key:valued pair, that are separated by commas and enclosed within curly brackets.
+
 To add new data
 ----------------
         syntax
